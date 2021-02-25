@@ -12,6 +12,13 @@ code {
     monospace;
 }
 
+.userForm {
+  text-align: left;
+  padding: 1rem;
+  width: 200px;
+  background-color: #d6d6d6;
+}
+
 .userForm label {
   display: block;
   font-size: 0.8rem;
