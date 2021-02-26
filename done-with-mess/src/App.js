@@ -61,6 +61,7 @@ const submit= ()=> {
   }
 
   postNewUser(newUser)
+  setFormData(initialCreds)
 
 }
 
